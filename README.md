@@ -8,7 +8,7 @@
 - **Focus:** Autonomous UAVs, AI/ML, and Cybersecurity.
 
 ###  What I Hope to Learn
-> "Over the next four years, I aim to master the integration of Machine Learning with embedded systems to build high-speed, autonomous fixed-wing UAVs and contribute to the future of defense technology."
+> "Through this Digital Literacy project, I hope to learn how to effectively curate a professional digital identity and master collaborative tools like GitHub and Cloud platforms to better communicate technical concepts to my peers."
 
 ###  Tech Stack & Interests
 - **Languages:** Python, C++, Arduino/C
