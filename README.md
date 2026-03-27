@@ -1,5 +1,5 @@
 # digital-literacy-project
-# Hi there, I'm Neelabh Mishra! 👋
+# Hi there, I'm Neelabh Mishra! 
 
 ###  About Me
 - **Branch:** B.Tech Computer Science & Engineering (CSE)
