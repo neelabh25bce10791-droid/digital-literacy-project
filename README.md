@@ -17,3 +17,5 @@
 
 ---
 *This profile is part of my Digital Literacy Portfolio as a Student Digital Ambassador.*
+
+*Link to the quiz for digital literacy over google forms : https://docs.google.com/forms/d/e/1FAIpQLScNHDurVapRdpMyB6dnjmi5_aYZCNKEOZyeu96dSUgep4YDDA/viewform?usp=sharing&ouid=103513009225344890449*
