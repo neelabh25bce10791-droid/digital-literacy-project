@@ -10,11 +10,7 @@
 ###  What I Hope to Learn
 > Through this Digital Literacy project, I hope to learn how to effectively curate a professional digital identity and master collaborative tools like GitHub and Cloud platforms to better communicate technical concepts to my peers.
 
-###  For your GitHub README.md and the Introduction of your project report, you need concise, professional summaries for each of the five modules. Since you are a Student Digital Ambassador, these summaries should reflect both what you learned and how you are prepared to lead your peers.
-
-Here are the summaries tailored for your VIT Bhopal Digital Literacy Project:
-
-Project Module Summaries
+###  Project Module Summaries
 Module 1: Visual Communication & Information Literacy
 Focused on the ability to find, evaluate, and communicate information using digital tools. I designed a professional infographic using Canva to simplify complex topics like phishing and digital tools, ensuring that essential literacy concepts are accessible to students of all branches.
 
