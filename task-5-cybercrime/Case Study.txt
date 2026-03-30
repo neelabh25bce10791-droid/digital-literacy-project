@@ -1,0 +1,20 @@
+Case Study: The "Urgent KYC" UPI Fraud  
+UPI (Unified Payments Interface) Fraud is a form of cybercrime where attackers deceive victims into approving unauthorized transactions or disclosing sensitive banking information. While UPI allows for easy transfers, its "Request Money" feature is often misused to empty bank accounts quickly.
+
+How It Typically Happens (Step-by-Step)  
+The Hook: The attacker sends a fake SMS or WhatsApp message stating that the victim’s bank account or KYC (Know Your Customer) status has expired and will be blocked within two hours.
+
+The Contact:
+ The message includes a "helpline" number. When the victim calls in a panic, the fraudster pretends to be a helpful bank employee.
+
+The Deception:
+ The attacker tells the victim to download a screen-sharing app, like AnyDesk or TeamViewer, under the pretense of "guiding them through the portal." This allows the criminal to see the victim's phone screen.
+
+The Transaction: 
+The attacker sends a "Collect Request" through a UPI app. They instruct the victim to "enter their PIN to verify the refund" or "confirm the cancellation."
+
+The Theft:
+ In reality, entering a UPI PIN always approves a payment from the account. Once the PIN is entered, the money is immediately transferred to several "mule" accounts.
+
+Targets and Consequences :
+The main targets are usually senior citizens or people less familiar with the details of UPI functions, such as "Pay" versus "Receive." However, even tech-savvy students can become victims in stressful situations. The results can be severe: immediate financial loss, compromised mobile security, and the emotional toll of realizing that a real-time transaction cannot be reversed. Because UPI transfers happen instantly, recovering the funds is very challenging once the money has flowed through multiple layers of digital wallets.

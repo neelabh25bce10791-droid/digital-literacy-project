@@ -1,0 +1,32 @@
+To keep your digital and financial life safe while you navigate campus life and online services, follow this 'Stay Safe Online' Checklist. These tips address common digital threats faced by students in India today.
+
+Stay Safe Online: Essential Prevention Tips  
+Secure Your UPI Transactions. Never enter your UPI PIN to "receive" or "refund" money. You only need a PIN to send money or check your balance. If someone asks for a PIN to credit your account, it is a scam.
+
+Verify the VPA/Payee Name:
+Before pressing 'Pay' on apps like PhonePe, Google Pay, or Paytm, double-check the verified name of the recipient. Scammers often use names that are similar to official organizations to trick you.
+
+Use Multi-Factor Authentication (MFA):
+Turn on two-step verification for your college email (VIT/University IDs), WhatsApp, and Instagram. This way, even if someone steals your password, they can't access your account without a secondary code.
+
+Avoid Public Wi-Fi for Banking:
+ College libraries and cafes often have open Wi-Fi. Never log into your bank portal or perform UPI transactions on these networks, as hackers can intercept your data. Instead, use your mobile data or a trusted VPN.
+
+Audit App Permissions:
+Regularly check which apps have access to your contacts, microphone, and SMS. Malicious apps can read your OTPs (One-Time Passwords) to bypass security measures.
+
+Spot the Phishing Hook:
+Be cautious of "Urgent" emails or WhatsApp messages claiming your scholarship, exam registration, or hostel allotment is blocked. Always verify through the official university portal instead of clicking links in a message.
+
+Practice 'Clean' Social Media: 
+Avoid sharing your location in real-time or posting photos of your ID cards and hall tickets. This helps prevent identity theft and doxxing by bad actors.
+
+Beware of "Work-from-Home" Scams:
+ As a student, you might come across ads for easy part-time jobs or "Telegram Task" jobs. If a job asks for a "security deposit" or "registration fee" upfront, it is almost certainly a fraud.
+
+How to Report a Cybercrime  
+If you have been cheated or notice suspicious activity, act quickly. Reporting within the "Golden Hour" (the first 2 hours) greatly increases the chances of freezing stolen funds.
+
+Official Portal: Register your complaint at cybercrime.gov.in.
+
+National Helpline: Call 1930 to reach the National Cyber Crime Helpline for immediate help.
